@@ -1,0 +1,5 @@
+Nmap scan command used:
+nmap -p 23 -T4 -A -v 10.174.178.16
+
+Re-scan after firewall rule:
+nmap -p 23 10.174.178.16
